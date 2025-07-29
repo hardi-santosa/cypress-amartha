@@ -1,0 +1,22 @@
+{
+  "name": "cypress-amartha",
+  "version": "1.0.0",
+  "description": "assignment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardi-santosa/cypress-amartha.git"
+  },
+  "author": "hardi santosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardi-santosa/cypress-amartha/issues"
+  },
+  "homepage": "https://github.com/hardi-santosa/cypress-amartha#readme",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}

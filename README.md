@@ -44,7 +44,7 @@ $ npm test
 
 when use windows
 1. create new folder
-2. npm init
+2. npm init -y
 3. intsall cypress
  ```sh
 $ npm install cypress -g
